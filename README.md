@@ -1,2 +1,0 @@
-# Livecric
-Live tv running 
